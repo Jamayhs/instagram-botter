@@ -5,6 +5,7 @@ github.url=("https://github.com/natrixdev")
 requirements = "https://github.com/natrixdev/instagram-botter/blob/main/reqs.txt"
 
 owner_repos = "https://github.com/natrixdev?tab=repositories"
+
 howto_use="https://github.com/natrixdev/instagram-botter/blob/main/README.md"         
                                                                                                      
 this.code = "https://github.com/natrixdev/instagram-botter/blob/main/main.py"
